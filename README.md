@@ -8,7 +8,7 @@ _ActiveRPC works thanks to active-rpc-csharp, including a very easy configuratio
 
 **How to configure the app**
 
-![](https://github.com/Just1diaxx/ActiveRPCDocs/assets/157634021/c028db0f-d3ef-4692-8a1f-a218d5e553ce)
+![](https://github.com/Just1diaxx/ActiveRPCDocs/assets/157634021/6ade20f6-0f92-4a6d-a755-7fa5c827cefd)
 
 1: Application ID: _It determinates the name of your "app", simplified, your Discord RPC name._
 2: Details: _Just a custom text to edit with something you want._
