@@ -6,6 +6,8 @@
 # How the app works
 _ActiveRPC works thanks to active-rpc-csharp, including a very easy configuration ready-to-use._
 
+(https://github.com/Lachee/discord-rpc-csharp)
+
 # How to configure the app
 
 ![](https://github.com/Just1diaxx/ActiveRPCDocs/assets/157634021/6ade20f6-0f92-4a6d-a755-7fa5c827cefd)
