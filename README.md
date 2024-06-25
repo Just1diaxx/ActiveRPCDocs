@@ -3,7 +3,7 @@
 
 ---
 
-**How the app works**
+# How the app works
 _ActiveRPC works thanks to active-rpc-csharp, including a very easy configuration ready-to-use._
 
 # How to configure the app
